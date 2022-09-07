@@ -1,0 +1,19 @@
+step-1
+create a blank solution name it with HR.LeaveManagement
+step-2
+create folders
+             src
+			    API
+				Core
+				Infrastructure
+				UI
+			 test
+step-3
+     create a new class library (name domain) project in Core folder -> HR.LeaveManagement.Domain
+
+step-4
+     create few class in domain project. 
+	 
+	 
+	 
+			 
