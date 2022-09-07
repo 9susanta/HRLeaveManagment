@@ -13,7 +13,11 @@ step-3
 
 step-4
      create few class in domain project. 
-	 
-	 
+
+step-5
+      create a folder name as Common under domain project for few common entity
+	  
+setp-6 
+      create a baseEntity class
 	 
 			 
