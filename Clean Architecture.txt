@@ -19,5 +19,7 @@ step-5
 	  
 setp-6 
       create a baseEntity class
-	 
-			 
+
+setp-7
+	  create respective repository interfaces for each domain which implement IGenericRepository interface
+	  
