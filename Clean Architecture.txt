@@ -23,3 +23,9 @@ setp-6
 setp-7
 	  create respective repository interfaces for each domain which implement IGenericRepository interface
 	  
+setp-8
+	  create a folder under Application project named as profiles.
+
+step-9
+	  create a class with name MappingProfile which could be the configuration file of the auto mapper
+	  
