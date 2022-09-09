@@ -32,3 +32,5 @@ step-10
 	   create DTOs Folders under Applications Project. Add dto class for each domain.
 step-11
        create mappingProfile class and configure
+step-12
+	   ApplicationServicesRegistration Added to Aplication 
