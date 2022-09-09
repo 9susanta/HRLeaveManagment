@@ -27,5 +27,8 @@ setp-8
 	  create a folder under Application project named as profiles.
 
 step-9
-	  create a class with name MappingProfile which could be the configuration file of the auto mapper
-	  
+	  create a class with name MappingProfile which could be the configuration file of the auto mapper;
+step-10
+	   create DTOs Folders under Applications Project. Add dto class for each domain.
+step-11
+       create mappingProfile class and configure
