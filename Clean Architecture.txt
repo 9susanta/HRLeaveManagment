@@ -24,7 +24,7 @@ setp-7
 	  create respective repository interfaces for each domain which implement IGenericRepository interface
 	  
 setp-8
-	  create a folder under Application project named as profiles.
+	  install automapper in application with dependancy injection. create a folder under Application project named as profiles.
 
 step-9
 	  create a class with name MappingProfile which could be the configuration file of the auto mapper;
@@ -33,4 +33,7 @@ step-10
 step-11
        create mappingProfile class and configure
 step-12
-	   ApplicationServicesRegistration Added to Aplication 
+	   ApplicationServicesRegistration Added to Aplication and register auto mapper.
+step-13
+      agian install MediatR in Application project and configure MediatR.
+      
