@@ -36,4 +36,20 @@ step-12
 	   ApplicationServicesRegistration Added to Aplication and register auto mapper.
 step-13
       agian install MediatR in Application project and configure MediatR.
-      
+
+step-14
+	  Next step we need to implement CQRS partten. Command ,Query (Command and Query Responsibility Segregation)
+step-15
+	  Add a folder called Features and under the Feature folder add folder for each domain type. 
+	  (you could have add every thing under one folder due to cleanness i have implemented every thing on separate folder structure)
+step-15
+       add all the folder structure 
+	   
+	   the folder structure would be like : Features -> DomainType->Handlers-> Commands,Queries
+	                                                              ->Request-> Commands,Queries
+																  
+step-16
+	   Implemented all releated class for a get method for a demo type.
+																  
+	                                                       
+	   
