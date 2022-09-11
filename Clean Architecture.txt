@@ -52,8 +52,9 @@ step-17
 	   Implemented all releated class for a get method for a demo type.
 	   
 step-18
-		
 		moved all the DTOs are moved to respective folders.
-																  
+
+step-19 
+        added few Dtos in Dtos folder under application.														  
 	                                                       
 	   
