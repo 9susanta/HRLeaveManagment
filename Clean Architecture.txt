@@ -42,14 +42,18 @@ step-14
 step-15
 	  Add a folder called Features and under the Feature folder add folder for each domain type. 
 	  (you could have add every thing under one folder due to cleanness i have implemented every thing on separate folder structure)
-step-15
+step-16
        add all the folder structure 
 	   
 	   the folder structure would be like : Features -> DomainType->Handlers-> Commands,Queries
 	                                                              ->Request-> Commands,Queries
 																  
-step-16
+step-17
 	   Implemented all releated class for a get method for a demo type.
+	   
+step-18
+		
+		moved all the DTOs are moved to respective folders.
 																  
 	                                                       
 	   
