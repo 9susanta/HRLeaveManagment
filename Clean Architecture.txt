@@ -55,6 +55,19 @@ step-18
 		moved all the DTOs are moved to respective folders.
 
 step-19 
-        added few Dtos in Dtos folder under application.														  
+        added few Dtos in Dtos folder under application.
+
+
+step-20
+      Create two more Class Librabry HR.LeaveManagement.Infrastructure and HR.LeaveManagement.Persistence	
+	  
+step-21 
+	  Persistence Project we need to added Application Project , Application project has already reference of Domain Project.
+	  
+	  Persistence Project which will handle all database connection string and Database connection establishment logic.
+	  
+	  Under Persistence Project we need to install EntityFrameworkCore.SqlServer and Microsoft.Extensions.Options.ConfigurationExtensions
+	  
+	  So this will help us when we are setting up all our stuff
 	                                                       
 	   
